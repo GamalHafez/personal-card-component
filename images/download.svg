@@ -1,0 +1,14 @@
+<svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- The string line -->
+  <path d="M10,20 C60,50 140,50 190,20" stroke="black" stroke-width="4" fill="none"></path>
+
+  <!-- Flags -->
+  <!-- Dark red -->
+  <path d="M30,25 L40,70 L50,60 L60,70 L70,25 Z" fill="#8B0000" stroke="black" stroke-width="2"></path>
+  
+  <!-- Dark blue -->
+  <path d="M80,25 L90,70 L100,60 L110,70 L120,25 Z" fill="#00008B" stroke="black" stroke-width="2"></path>
+
+  <!-- Dark green -->
+  <path d="M130,25 L140,70 L150,60 L160,70 L170,25 Z" fill="#006400" stroke="black" stroke-width="2"></path>
+</svg>
