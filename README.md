@@ -4,6 +4,11 @@ This project presents a stylish digital identity for a front-end developer, comp
 
 ---
 
+## 📸 Preview
+![Video preview](./preview.gif)
+
+---
+
 ## 🚀 Live Preview
 
 🔗 [View Live Site](https://gamalhafez.github.io/personal-card-component/)
